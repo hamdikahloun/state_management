@@ -1,0 +1,11 @@
+name: blogs_repository
+description: Dart package which manages the blog domain.
+publish_to: none
+
+environment:
+  sdk: ">=2.12.0-0 <3.0.0"
+
+dependencies:
+  equatable: ^2.0.0
+  http: ^0.13.1
+  intl: ^0.17.0
